@@ -28,9 +28,13 @@
   * Debugging with GNUs Debugger GDB (C)
   * Memory analysis with Valgrind (C)
 
+## Linux
+
+  * Linux performance analysis and tools
+  * Linux server security
+  * Systemd
+
 ## Getting started with VIM
-## Linux performance analysis and tools
-## Linux server security
 ## NGINX - The high performance web server
 
   * Performance tuning
