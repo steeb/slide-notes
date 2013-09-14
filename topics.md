@@ -18,7 +18,7 @@
   * Using an IDE
   * A math tutorial
   * Graphics
-    + Creating graphics directly inside LaTeX code
+    + Creating graphics directly inside LaTeX with PSTricks
     + Creating graphics programmatically with TikZ and PGF
   * Conditional expression
 
